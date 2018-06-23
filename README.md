@@ -1,8 +1,8 @@
 # My Portfolio
 
-Personal portfolio designed for Project 1 of the Front-End Nanodegree.
+Personal portfolio built using HTML, CSS, JS to showcase personal projects.
 
-## images used
+## Images used
 
 * Logo: Built using Inkscape https://inkscape.org/en/
 * Hamburger Icon: https://www.iconfinder.com/icons/134216/hamburger_lines_menu_icon#size=256
